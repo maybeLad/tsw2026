@@ -1,3 +1,3 @@
-# TSW2026 oh shit, here we go again
+# TSW2026 E CHE CAZZ
 
 Something^3
