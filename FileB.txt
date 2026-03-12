@@ -1,0 +1,3 @@
+Questo e' il File B
+
+Prima del conflict
