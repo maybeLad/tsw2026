@@ -4,7 +4,7 @@ Line 1 Bla bla bla Ble ble ble
 Line 2 
 
 Line 3
-<<<<<<< HEAD
-=======
 
->>>>>>> testing2
+Line 4
+
+
